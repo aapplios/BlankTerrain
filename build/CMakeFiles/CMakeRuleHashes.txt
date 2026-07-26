@@ -1,8 +1,0 @@
-# Hashes of file build rules.
-c748bf2fae141d1cbf861227923bd35e /media/aser/All Files/Projects/Program/games/MicroEngine/shaders/point_light.frag.spv
-8f50581fef2f4f6a079c291864cfb420 /media/aser/All Files/Projects/Program/games/MicroEngine/shaders/point_light.vert.spv
-40960ad47f20980e8b2ca9b27b35fcbb /media/aser/All Files/Projects/Program/games/MicroEngine/shaders/shadow.frag.spv
-7118cdb5f86a56247bdb899b68b6bc41 /media/aser/All Files/Projects/Program/games/MicroEngine/shaders/shadow.vert.spv
-22f4a37f36187fab68f0bd482c372e2d /media/aser/All Files/Projects/Program/games/MicroEngine/shaders/simple_shader.frag.spv
-decd91f7be6120cc168506864b51294e /media/aser/All Files/Projects/Program/games/MicroEngine/shaders/simple_shader.vert.spv
-ed30bc7e0cb2a9a0af5fd4c071f33e1c CMakeFiles/Shaders
